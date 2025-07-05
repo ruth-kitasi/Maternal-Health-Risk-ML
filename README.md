@@ -1,5 +1,8 @@
 # Maternal Health Risk Analysis using Machine Learning
+
 <img width="423" height="282" alt="Image" src="https://github.com/user-attachments/assets/a9911c86-a7ec-47d7-a869-c1ef650fd734" />
+
+
 ## BUSINESS UNDERSTANDING
 Advancements in data analytics and machine learning have opened new frontiers in healthcare, allowing practitioners to harness existing health data to predict potential risks.
 
