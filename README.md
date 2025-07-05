@@ -1,5 +1,7 @@
 # Maternal Health Risk Analysis using Machine Learning
 
+C:\Users\AHB\Desktop\my_quick_acess\3.Projects\projects pipeline\2025\5. Maternal health risk\maternal img.png
+![Maternal Health Risk](plot.png)
 
 ## BUSINESS UNDERSTANDING
 Advancements in data analytics and machine learning have opened new frontiers in healthcare, allowing practitioners to harness existing health data to predict potential risks.
